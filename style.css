@@ -10,7 +10,7 @@ body{
     color:indigo;
 }
 
-.tamanho-fonte1{
+/* .tamanho-fonte1{
     font-size: 14px;
 }
 
@@ -28,7 +28,7 @@ body{
 
 .tamanho-fonte5{
     font-size: 25px;
-}
+} */
 
 .move-container{
     width: 2400px;
@@ -51,4 +51,9 @@ body{
 
 .centraliza-nome{
     text-align: center;    
+}
+
+.skills-impares{
+    background-color:forestgreen;
+    width: 135px;
 }
