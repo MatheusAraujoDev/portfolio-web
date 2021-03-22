@@ -1,0 +1,52 @@
+.fontes-diferentes{
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+body{
+    background-color:rgb(248, 216, 168);
+}
+
+#destaque-infos{
+    color:indigo;
+}
+
+.tamanho-fonte1{
+    font-size: 14px;
+}
+
+.tamanho-fonte2{
+    font-size: 16px;
+}
+
+.tamanho-fonte3{
+    font-size: 18px;
+}
+
+.tamanho-fonte4{
+    font-size: 20px;
+}
+
+.tamanho-fonte5{
+    font-size: 25px;
+}
+
+.move-container{
+    width: 2400px;
+    height: 335px;
+}
+
+.move-descricao{
+    float: right;
+    position:absolute;
+    left:280px;
+    margin-top: 200px;
+}
+
+.move-foto{
+    width: 250px;
+    float: left;
+}
+
+.centraliza-nome{
+    
+}
