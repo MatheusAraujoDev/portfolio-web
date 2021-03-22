@@ -39,7 +39,7 @@ body{
     float: right;
     position:absolute;
     left:280px;
-    margin-top: 200px;
+    margin-top: 260px;
 }
 
 .move-foto{
@@ -48,5 +48,5 @@ body{
 }
 
 .centraliza-nome{
-    
+    text-align: center;    
 }
