@@ -1,0 +1,23 @@
+* {
+  padding: 3px;
+  background-color: rgb(216, 197, 171);
+}
+
+
+#FotoPerfil {
+  width: 250px;
+  border-radius: 20px;
+  box-shadow: 5px 5px;
+}
+
+#Welcome{
+  font-family:Impact;
+}
+
+li {
+  margin-left: 20px;
+}
+
+a {
+  text-decoration: none;
+}
